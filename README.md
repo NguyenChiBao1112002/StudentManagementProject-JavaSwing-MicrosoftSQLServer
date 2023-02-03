@@ -1,4 +1,4 @@
-####APP QUẢN LÝ SINH VIÊN
+###APP QUẢN LÝ SINH VIÊN
 ##Java Swing + JDBC + Microsoft SQL Management 2019
 ## Chạy file script.sql và chạy code trên netbeans (hoặc eclipse)
 
