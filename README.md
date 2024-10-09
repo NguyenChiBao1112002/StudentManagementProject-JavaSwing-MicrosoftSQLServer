@@ -1,6 +1,8 @@
 # Student Management System 
-## Technology: Java Swing + JDBC + Microsoft SQL Server 2019
-## How to use: run script.sql file on Microsoft SQL Management 2019 and run code on Netbeans (or eclipse)
+>![Tip]
+>**Technology:** Java Swing + JDBC + Microsoft SQL Server 2019 
+><br>
+>**How to use:** run script.sql file on Microsoft SQL Management 2019 and run code on Netbeans (or eclipse)
 
 ## Some illustrations:
 ![danhap](https://user-images.githubusercontent.com/122804301/216585365-01c1cc42-a1a9-45c9-9a2d-8acaa1b433ca.png)
